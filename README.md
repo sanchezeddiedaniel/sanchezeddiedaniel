@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanchezeddiedaniel
 - 👀 I’m interested in Networking
-- 🌱 I’m currently learning Xamarin & Python
+- 🌱 I’m currently learning Xamarin & Python & Java
 - 💞️ I’m looking to collaborate on Any Project
 
 
